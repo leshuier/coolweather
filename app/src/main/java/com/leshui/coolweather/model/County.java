@@ -34,7 +34,7 @@ public class County {
         this.countyCode = countyCode;
     }
 
-    public String getCityId() {
+    public int getCityId() {
         return cityId;
     }
 

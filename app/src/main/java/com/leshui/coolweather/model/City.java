@@ -35,7 +35,7 @@ public class City {
     }
 
     public int getProvinceId() {
-        return cityCode;
+        return provinceId;
     }
 
     public void setProvinceId(int provinceId) {
